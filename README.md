@@ -32,7 +32,7 @@ VIRTUALIZATION
 
 FOR MORE INFORMATION
 - WHATSAPP: 081326854629
-- TELEGRAM: t.me/syntaxerr0r
+- TELEGRAM: httPs://t.me/syntaxerr0r
 
 ![Screenshot_20210814-232316_JuiceSSH](https://user-images.githubusercontent.com/83074099/129452897-88bb5d60-f017-4e80-be1c-e09314e5f7c9.png)
 
