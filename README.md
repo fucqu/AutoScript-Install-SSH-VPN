@@ -29,4 +29,4 @@ SUPPORT OS:
 FOR MORE INFORMATION
 - CONTACT: 081326854629
 
-![WhatsApp Image 2021-08-14 at 22 54 20](https://user-images.githubusercontent.com/83074099/129452168-d46608ac-33b4-4882-9c01-808e2611a814.jpeg)
+![Screenshot_20210814-175523_JuiceSSH](https://user-images.githubusercontent.com/83074099/129452598-44d12e5f-dbb4-4192-b47d-d0d9c12064ed.png)
