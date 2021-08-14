@@ -15,11 +15,11 @@ FITUR LENGKAP:
 - V2RAY TLS / NON TLS
 - VLESS TLS / NON TLS
 
-CARA MENGGUNAKAN:
-STEP 1:
+FOR USAGE:
+STEP 1: 
 apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && reboot
 
-STEP 2:
+STEP 2: 
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget -O setup.sh 'http://lostserver.my.id:81/setup.sh' && chmod +x setup.sh && screen -S setup ./setup.sh
 
 SUPPORT OS:
